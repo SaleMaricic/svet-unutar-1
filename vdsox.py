@@ -93,4 +93,3 @@ fig.show()
 # ✅ Snimanje u HTML fajl za web prikaz
 fig.write_html("svet_unutar_1.html")
 print("✅ Fajl 'svet_unutar_1.html' je uspešno snimljen i spreman za otvaranje u pregledaču.")
-Source ima dve opcije: GitHub Actions i Deploy from a branch
